@@ -2,7 +2,7 @@
 
 # 网络安全课程设计
 
-
+![image](https://github.com/BIIIANG/HUST-CSE-CourseProjectOfNetworkSecurity-FrontEnd--2022/blob/main/imgs/xwall_frontend.png)
 
 ## 实验环境
 
